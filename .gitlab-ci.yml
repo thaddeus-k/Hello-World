@@ -1,0 +1,13 @@
+image: node:4.2.2
+
+before_script:
+  - echo "Starting Build"
+
+stages:
+  - build
+  - test
+  - deploy
+
+jobRun:
+  stage: test
+  script: node main.js
