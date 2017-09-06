@@ -1,2 +1,2 @@
 # Hello-World
-Simple Hello World Repo to exercise git processes
+Simple Hello World Repository to exercise git processes. 
